@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: lightslategray;
+    background-image: url(starBackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: vh;
+    text-align: center;
+    color: white;
+}
+form{
+    background: lightslategray;
+    border: 10px white;
+    border-style: outset;
+    padding: 30px; 
+    display: inline-block;
+
+    
+}
+#query{
+    text-align: center;
+}
